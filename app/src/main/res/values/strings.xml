@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CamerShare</string>
+    <string name="welcome_text">Welcome to CamerShare</string>
+    <string name="name_placeholder">Enter full names</string>
+    <string name="id_card_placeholder">Nationl ID card number</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Information</string>
+    <string name="title_dashboard">Application</string>
+</resources>
